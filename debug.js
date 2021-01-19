@@ -1,25 +1,9 @@
 /* Use the included .js and .html files and try to figure out why they don't work correctly.
-
 The web page is just an altered version of our previous assignment.
-
-
-
 With the help of the debugger, I want you to run through the features of the page and fix any errors.
-
-
-
-
-
 Here is a recap of how the web page should work...
-
-
-
 Using the included .html and .js files, do the following:
-
-
-
 For 1 & 2, use the correct JavaScript Event.
-
 1. When Button 1 is clicked:
     a. Paragraph 1 should be replaced with "Button 1 was clicked"
     b. An alert should appear with text "Button 1 was clicked"
