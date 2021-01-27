@@ -1,0 +1,93 @@
+body {
+    background-image: url('https://images.unsplash.com/photo-1515266591878-f93e32bc5937?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=634&q=80');
+    background-repeat: no-repeat;
+    background-size: 200mm 300mm;
+    background-attachment: fixed;
+    background-position: right;
+    font-family: "proxima-nova", "Arial CE", Arial, sans-serif;
+
+}
+
+body, html {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    font-family: "proxima-nova", "Arial CE", Arial, sans-serif;
+    font-size: 20px;
+    line-height: 24px;
+    
+}
+.align{
+    float: left;
+}
+
+h1{  
+    font-size: 35px;
+    font-family: "proxima-nova", "Arial CE", Arial, sans-serif;
+    font-weight: 700;
+    line-height: 36px;
+}
+.header img {
+    float: left;
+    width: 50px;
+    height: 50px;
+}
+  
+.header h2 {
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+.btn1{
+    background-color: white;
+    padding: 10px 19px;
+    width: 450px;
+    font-weight: 700;
+    border-color: #d4dbe1;
+    color: gray;
+    border-radius: 4px;
+    border-width: 1px;
+    cursor:pointer;
+    font-size: 5mm;
+} 
+.btn2 {
+    background-color: #008CBA;
+    padding: 10px 12px;
+    width: 450px;
+    font-weight: bold;
+    border-color: lightgray;
+    color: white;
+    border-radius: 6px;
+    border-width: 1px;
+    cursor:pointer;
+}
+
+a, p{
+    color: gray;
+    background-color: transparent;
+}
+input[type=text] {
+    padding: 12px 14px;
+    width: 420px;
+    border-radius: 5px;
+    border-width: 1px;
+    border-color: lightgray;
+    
+}
+label {
+    font-weight: bold;
+    color : gray;
+    font-size: 0.7pc;  
+}
+.ForgotPassword{
+    padding-left: 15pc;
+}
+.bodyAlign{
+    padding-left: 20pc;
+    padding-top: 50pt;
+}
+.container i {
+    margin-left: -30px;
+    cursor: pointer;
+}
