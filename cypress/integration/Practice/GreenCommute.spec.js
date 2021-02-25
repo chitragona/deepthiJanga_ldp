@@ -3,7 +3,7 @@
 context('Actions', () => {
     beforeEach(() => {
       cy.visit('http://bc15-green-commute.dev-apps.io/')
-      cy.title().should('include', 'Green Commute')
+//       cy.title().should('include', 'Green Commute')
     })
         it('Selecting your location, job location and skills', () => {
         cy.get('[placeholder="Enter your location"]').type('hyderabad').type('{downarrow}').type('{enter}')
